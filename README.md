@@ -27,3 +27,7 @@ Et quelques fichiers CSV&nbsp;:
 - **engagementParHeure.csv** : Un résumé de l'engagement moyen par heure du jour (sur les cinq ans)
 
 :+1: :+1: :+1:
+
+=====
+
+J'ai également ajouté un répertoire appelé **2015** pour mettre des documents relatifs à un projet de recherche élaboré en 2015-2015 et décrit dans [cette opinion publiée dans *La Presse+*](http://plus.lapresse.ca/screens/45d2ac30-8704-4dd7-91c9-f3bdf27469a0%7C_0.html). On y trouve essentiellement un [script ruby](https://github.com/jhroy/facebook/blob/master/2015/fb.rb) et [un exemple des données qu'il permettait d'extraire](https://github.com/jhroy/facebook/blob/master/2015/MattDugal.csv).
